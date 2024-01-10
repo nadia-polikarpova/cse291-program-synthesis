@@ -4,4 +4,3 @@ This repository is the public web page for the [UCSD](https://ucsd.edu/) [CSE](h
 
 * For course description, check out the [wiki](https://github.com/nadia-polikarpova/cse291-program-synthesis/wiki).
 * For lecture slides, browse or clone the repository.
-* To ask a question, use the [issue tracker](https://github.com/nadia-polikarpova/cse291-program-synthesis/issues).
